@@ -2,8 +2,9 @@
 
 _Arquivo .ics contendo os feriados nacionais, Rio de Janeiro e São Paulo para o ano de 2025._
 
-> Baixe
-> Execute o arquivo feriados-2025.ics
+Baixe e execute o arquivo feriados-2025.ics
+
+
 > No Outlook > "Import as new", "Importar como novo".
 > Aparecerá desta forma
 > 
