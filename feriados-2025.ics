@@ -1,339 +1,181 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Feriados Nacionais, Rio de Janeiro e São Paulo 2025//PT-BR
+PRODID:-//Calendário Cultural SP-RJ 2025//PT-BR
 CALSCALE:GREGORIAN
-METHOD:PUBLISH
-X-WR-CALNAME:Feriados Nacionais, Rio de Janeiro e São Paulo 2025
-X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:Feriados Culturais SP-RJ 2025
+X-WR-CALDESC:Celebrando nossa diversidade cultural e história em 2025
 
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250101
-DTEND;VALUE=DATE:20250102
-DTSTAMP:20241104T000000Z
-UID:ano-novo-2025@feriados.brasil
-CREATED:20241104T000000Z
-DESCRIPTION:Brasil - Ano Novo
-LAST-MODIFIED:20241104T000000Z
-LOCATION:Brasil
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Ano Novo
-TRANSP:TRANSPARENT
+SUMMARY:🌟 Ano Novo - Novos Horizontes
+DESCRIPTION:Feriado Nacional\n\n"2025 chega trazendo novas esperanças e 
+ possibilidades. Momento de renovar nossos sonhos e propósitos."\n\n
+ Válido em: Todo o Brasil
+COLOR:#FFD700
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250303
-DTEND;VALUE=DATE:20250304
-DTSTAMP:20241104T000000Z
-UID:carnaval-2025@feriados.brasil
-CREATED:20241104T000000Z
-DESCRIPTION:Brasil - Segunda-feira de Carnaval
-LAST-MODIFIED:20241104T000000Z
-LOCATION:Brasil
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Carnaval
-TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20250120
+SUMMARY:⛪ Dia de São Sebastião
+DESCRIPTION:Feriado Municipal - Rio de Janeiro\n\n"Padroeiro da Cidade 
+ Maravilhosa, São Sebastião representa a força e a fé do povo carioca. 
+ Um dia para celebrar as tradições do Rio."\n\nVálido em: Rio de Janeiro
+COLOR:#00FF7F
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250304
-DTEND;VALUE=DATE:20250305
-DTSTAMP:20241104T000000Z
-UID:carnaval-2025@feriados.brasil
-CREATED:20241104T000000Z
-DESCRIPTION:Brasil - Carnaval
-LAST-MODIFIED:20241104T000000Z
-LOCATION:Brasil
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Carnaval
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250305
-DTEND;VALUE=DATE:20250306
-DTSTAMP:20241104T000000Z
-UID:carnaval-2025@feriados.brasil
-CREATED:20241104T000000Z
-DESCRIPTION:Brasil - Quarta-feira de cinzas
-LAST-MODIFIED:20241104T000000Z
-LOCATION:Brasil
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Carnaval
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250418
-DTEND;VALUE=DATE:20250419
-DTSTAMP:20241104T000000Z
-UID:sexta-feira-santa-2025@feriados.brasil
-CREATED:20241104T000000Z
-DESCRIPTION:Brasil - Sexta-feira Santa
-LAST-MODIFIED:20241104T000000Z
-LOCATION:Brasil
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Sexta-feira Santa
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250421
-DTEND;VALUE=DATE:20250422
-DTSTAMP:20241104T000000Z
-UID:tiradentes-2025@feriados.brasil
-CREATED:20241104T000000Z
-DESCRIPTION:Brasil - Tiradentes
-LAST-MODIFIED:20241104T000000Z
-LOCATION:Brasil
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Tiradentes
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250501
-DTEND;VALUE=DATE:20250502
-DTSTAMP:20241104T000000Z
-UID:dia-trabalho-2025@feriados.brasil
-CREATED:20241104T000000Z
-DESCRIPTION:Brasil - Dia do Trabalho
-LAST-MODIFIED:20241104T000000Z
-LOCATION:Brasil
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Dia do Trabalho
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250619
-DTEND;VALUE=DATE:20250620
-DTSTAMP:20241104T000000Z
-UID:corpus-christi-2025@feriados.brasil
-CREATED:20241104T000000Z
-DESCRIPTION:Brasil - Corpus Christi
-LAST-MODIFIED:20241104T000000Z
-LOCATION:Brasil
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Corpus Christi
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250907
-DTEND;VALUE=DATE:20250908
-DTSTAMP:20241104T000000Z
-UID:independencia-2025@feriados.brasil
-CREATED:20241104T000000Z
-DESCRIPTION:Brasil - Independência do Brasil
-LAST-MODIFIED:20241104T000000Z
-LOCATION:Brasil
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Independência do Brasil
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251012
-DTEND;VALUE=DATE:20251013
-DTSTAMP:20241104T000000Z
-UID:nossa-senhora-2025@feriados.brasil
-CREATED:20241104T000000Z
-DESCRIPTION:Brasil - Nossa Senhora Aparecida
-LAST-MODIFIED:20241104T000000Z
-LOCATION:Brasil
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Nossa Senhora Aparecida
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251028
-DTEND;VALUE=DATE:20251029
-DTSTAMP:20241104T000000Z
-UID:nossa-senhora-2025@feriados.brasil
-CREATED:20241104T000000Z
-DESCRIPTION:Brasil - Dia do Servidor Público
-LAST-MODIFIED:20241104T000000Z
-LOCATION:Brasil
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Nossa Senhora Aparecida
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251102
-DTEND;VALUE=DATE:20251103
-DTSTAMP:20241104T000000Z
-UID:finados-2025@feriados.brasil
-CREATED:20241104T000000Z
-DESCRIPTION:Brasil - Finados
-LAST-MODIFIED:20241104T000000Z
-LOCATION:Brasil
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Finados
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251115
-DTEND;VALUE=DATE:20251116
-DTSTAMP:20241104T000000Z
-UID:republica-2025@feriados.brasil
-CREATED:20241104T000000Z
-DESCRIPTION:Brasil - Proclamação da República
-LAST-MODIFIED:20241104T000000Z
-LOCATION:Brasil
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Proclamação da República
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251120
-DTEND;VALUE=DATE:20251121
-DTSTAMP:20241104T000000Z
-UID:republica-2025@feriados.brasil
-CREATED:20241104T000000Z
-DESCRIPTION:Brasil - Dia de Zumbi dos Palmares
-LAST-MODIFIED:20241104T000000Z
-LOCATION:Brasil
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Proclamação da República
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251224
-DTEND;VALUE=DATE:20251225
-DTSTAMP:20241104T000000Z
-UID:natal-2025@feriados.brasil
-CREATED:20241104T000000Z
-DESCRIPTION:Brasil - Véspera de Natal
-LAST-MODIFIED:20241104T000000Z
-LOCATION:Brasil
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Natal
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251225
-DTEND;VALUE=DATE:20251226
-DTSTAMP:20241104T000000Z
-UID:natal-2025@feriados.brasil
-CREATED:20241104T000000Z
-DESCRIPTION:Brasil - Natal
-LAST-MODIFIED:20241104T000000Z
-LOCATION:Brasil
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Natal
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251231
-DTEND;VALUE=DATE:20260101
-DTSTAMP:20241104T000000Z
-UID:natal-2025@feriados.brasil
-CREATED:20241104T000000Z
-DESCRIPTION:Brasil - Ano Novo 2026
-LAST-MODIFIED:20241104T000000Z
-LOCATION:Brasil
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Natal
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250113
-DTEND;VALUE=DATE:20250114
-DTSTAMP:20241104T000000Z
-UID:aniversario-rio-2025@feriados.rj
-CREATED:20241104T000000Z
-DESCRIPTION:Rio de Janeiro - Aniversário da Cidade
-LAST-MODIFIED:20241104T000000Z
-LOCATION:Rio de Janeiro
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Aniversário da Cidade do Rio de Janeiro
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250423
-DTEND;VALUE=DATE:20250424
-DTSTAMP:20241104T000000Z
-UID:aniversario-rio-2025@feriados.rj
-CREATED:20241104T000000Z
-DESCRIPTION:Rio de Janeiro - Dia de São Jorge
-LAST-MODIFIED:20241104T000000Z
-LOCATION:Rio de Janeiro
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Dia de São Jorge
-TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20250125
+SUMMARY:🏙️ Aniversário de São Paulo - 471 Anos
+DESCRIPTION:Feriado Municipal - São Paulo\n\n"A cidade que nunca para 
+ celebra mais um ano de história. Terra de todas as gentes, São Paulo 
+ é o Brasil em sua mais pura essência."\n\nVálido em: São Paulo
+COLOR:#4169E1
 END:VEVENT
 
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250325
-DTEND;VALUE=DATE:20250326
-DTSTAMP:20241104T000000Z
-UID:aniversario-sp-2025@feriados.sp
-CREATED:20241104T000000Z
-DESCRIPTION:São Paulo - Aniversário da Cidade
-LAST-MODIFIED:20241104T000000Z
-LOCATION:São Paulo
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Aniversário da Cidade de São Paulo
-TRANSP:TRANSPARENT
+SUMMARY:🏛️ Fundação de São Paulo - 471 Anos
+DESCRIPTION:Feriado Municipal - São Paulo\n\n"25 de janeiro de 1554: 
+ O dia em que os jesuítas fundaram o Colégio que daria origem à 
+ maior metrópole da América Latina. De vila jesuíta à megalópole 
+ global, São Paulo carrega em sua essência o espírito desbravador 
+ e multicultural."\n\nVálido em: São Paulo
+COLOR:#4169E1
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250320
-DTEND;VALUE=DATE:20250321
-DTSTAMP:20241104T000000Z
-UID:fundacao-sp-2025@feriados.sp
-CREATED:20241104T000000Z
-DESCRIPTION:São Paulo - Fundação da Cidade
-LAST-MODIFIED:20241104T000000Z
-LOCATION:São Paulo
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Fundação da Cidade de São Paulo
-TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250305
+SUMMARY:🎭 Carnaval 2025
+DESCRIPTION:Feriado Nacional\n\n"O maior espetáculo da Terra! Quando o 
+ Brasil mostra ao mundo sua alma festiva e criativa. Samba, frevo, 
+ maracatu - a diversidade cultural em festa!"\n\nVálido em: Todo o Brasil
+COLOR:#FF1493
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250418
+SUMMARY:✝️ Sexta-feira Santa
+DESCRIPTION:Feriado Nacional\n\n"Dia de reflexão e renovação espiritual. 
+ Um momento para meditar sobre compaixão e solidariedade."\n\n
+ Válido em: Todo o Brasil
+COLOR:#800080
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250421
+SUMMARY:✊ Tiradentes
+DESCRIPTION:Feriado Nacional\n\n"Mártir da independência e símbolo da 
+ luta pela liberdade. Seu ideal de justiça continua inspirando gerações."\n\n
+ Válido em: Todo o Brasil
+COLOR:#B8860B
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250423
+SUMMARY:⚔️ Dia de São Jorge | ⚡ Ogum
+DESCRIPTION:Feriado Estadual - Rio de Janeiro\n\n"Na força de São Jorge 
+ e na energia de Ogum, o Rio celebra a fé e o sincretismo religioso. 
+ Um dia de proteção e força espiritual."\n\nVálido em: Rio de Janeiro
+COLOR:#8B4513
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250501
+SUMMARY:👷 Dia do Trabalho
+DESCRIPTION:Feriado Nacional\n\n"Celebrando a dignidade do trabalho e as 
+ conquistas dos trabalhadores. Por uma sociedade mais justa e igualitária."\n\n
+ Válido em: Todo o Brasil
+COLOR:#4682B4
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250619
+SUMMARY:🕊️ Corpus Christi
+DESCRIPTION:Feriado Municipal\n\n"Celebração da fé e da tradição cristã. 
+ Dia marcado por belas manifestações de arte e devoção popular."\n\n
+ Válido em: São Paulo e Rio de Janeiro
+COLOR:#DAA520
 END:VEVENT
 
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250709
-DTEND;VALUE=DATE:20250710
-DTSTAMP:20241104T000000Z
-UID:fundacao-sp-2025@feriados.sp
-CREATED:20241104T000000Z
-DESCRIPTION:São Paulo - Revolução Constitucionalista de 1932
-LAST-MODIFIED:20241104T000000Z
-LOCATION:São Paulo
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Revolução Constitucionalista de 1932
-TRANSP:TRANSPARENT
+SUMMARY:🗽 Revolução Constitucionalista de 1932
+DESCRIPTION:Feriado Estadual - São Paulo\n\n"MMDC: O movimento que 
+ marcou a luta por uma constituição democrática. São Paulo se 
+ levantou pela lei, pela ordem e pela democracia. 'Pro Brasil, 
+ tudo!' - O grito que ecoou em 32 ainda ressoa como símbolo da 
+ defesa do estado de direito."\n\nVálido em: Estado de São Paulo
+COLOR:#191970
 END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250907
+SUMMARY:🇧🇷 Independência do Brasil
+DESCRIPTION:Feriado Nacional\n\n"O grito do Ipiranga ecoa através dos 
+ séculos. Celebrando nossa soberania e identidade nacional."\n\n
+ Válido em: Todo o Brasil
+COLOR:#008000
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251012
+SUMMARY:👑 Nossa Senhora Aparecida
+DESCRIPTION:Feriado Nacional\n\n"Padroeira do Brasil, símbolo de fé e 
+ união nacional. Um dia para celebrar a espiritualidade brasileira."\n\n
+ Válido em: Todo o Brasil
+COLOR:#4169E1
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251102
+SUMMARY:🕯️ Finados
+DESCRIPTION:Feriado Nacional\n\n"Dia de memória e saudade. Momento de 
+ honrar aqueles que fizeram parte de nossa história."\n\n
+ Válido em: Todo o Brasil
+COLOR:#708090
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251115
+SUMMARY:🗽 Proclamação da República
+DESCRIPTION:Feriado Nacional\n\n"O dia em que o Brasil escolheu seu 
+ destino democrático. Celebrando os valores republicanos."\n\n
+ Válido em: Todo o Brasil
+COLOR:#191970
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251120
+SUMMARY:✊🏿 Dia da Consciência Negra
+DESCRIPTION:Feriado Municipal/Estadual\n\n"Em memória de Zumbi dos 
+ Palmares. Dia de celebrar a resistência, a cultura e a contribuição 
+ do povo negro. Por uma sociedade antirracista e igualitária."\n\n
+ Válido em: São Paulo e Rio de Janeiro
+COLOR:#8B4513
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251225
+SUMMARY:🎄 Natal
+DESCRIPTION:Feriado Nacional\n\n"Tempo de renovar a esperança e fortalecer 
+ os laços de amor e solidariedade. Celebrando a luz e a paz."\n\n
+ Válido em: Todo o Brasil
+COLOR:#228B22
+END:VEVENT
+
+X-WR-TIMEZONE:America/Sao_Paulo
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+
+BEGIN:VCATEGORIES
+CATEGORY:Feriados Nacionais
+CATEGORY:Feriados Estaduais RJ
+CATEGORY:Feriados Estaduais SP
+CATEGORY:Feriados Municipais SP
+CATEGORY:Feriados Municipais RJ
+CATEGORY:Celebrações Culturais
+CATEGORY:Festas Religiosas
+END:VCATEGORIES
 
 END:VCALENDAR
