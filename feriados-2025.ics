@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Calendário Cultural SP-RJ 2025//PT-BR
+PRODID:-//Feriados Nacionais, Rio de Janeiro e São Paulo 2025//PT-BR
 CALSCALE:GREGORIAN
-X-WR-CALNAME:Feriados Culturais SP-RJ 2025
+X-WR-CALNAME:Feriados Nacionais, Rio de Janeiro e São Paulo 2025
 X-WR-CALDESC:Celebrando nossa diversidade cultural e história em 2025
 
 BEGIN:VEVENT
@@ -17,11 +17,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250120
 SUMMARY:⛪ Dia de São Sebastião
-DESCRIPTION:Feriado Municipal - Rio de Janeiro\n\n"Padroeiro da Cidade 
- Maravilhosa, São Sebastião representa a força e a fé do povo carioca. 
- Um dia para celebrar as tradições do Rio."\n\nVálido em: Rio de Janeiro
+DESCRIPTION:Feriado Municipal - São Paulo e Rio de Janeiro\n\n"Padroeiro da 
+Cidade Maravilhosa e celebrado em São Paulo, São Sebastião representa a força 
+e a fé. Um dia para celebrar as tradições."\n\n
+Válido em: Rio de Janeiro e São Paulo
 COLOR:#00FF7F
 END:VEVENT
+
 
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250125
